@@ -1,0 +1,290 @@
+[
+  {
+    "id": "melat",
+    "bankName": "ملت",
+    "iBan": "012",
+    "prefixes": ["610433"],
+    "logo": "mellat.png",
+    "bgColor": "#FFE2E3",
+    "textColor": "#800005"
+  },
+  {
+    "id": "sepah",
+    "bankName": "سپه",
+    "iBan": "015",
+    "prefixes": ["589210", "604932", "627381", "636949", "505801", "639599"],
+    "logo": "sepah.png",
+    "bgColor": "#EAEBED",
+    "textColor": "#000000"
+  },
+  {
+    "id": "shahr",
+    "bankName": "شهر",
+    "iBan": "061",
+    "prefixes": ["504706"],
+    "logo": "shahr.png",
+    "bgColor": "#FFD3D5",
+    "textColor": "#B2181C"
+  },
+  {
+    "id": "tose_saderat",
+    "bankName": "توسعه صادرات ایران",
+    "iBan": "020",
+    "prefixes": ["627648"],
+    "logo": "tose_saderat.png",
+    "bgColor": "#BCDFC0",
+    "textColor": "#013E08"
+  },
+  {
+    "id": "maskan",
+    "bankName": "مسکن",
+    "iBan": "014",
+    "prefixes": ["628023"],
+    "logo": "maskan.png",
+    "bgColor": "#FFD2C1",
+    "textColor": "#BF4619"
+  },
+  {
+    "id": "tosee",
+    "bankName": "توسعه تعاون",
+    "iBan": "051",
+    "prefixes": ["502908"],
+    "logo": "tosee.png",
+    "bgColor": "#CBFFFF",
+    "textColor": "#295A85"
+  },
+  {
+    "id": "pasargad",
+    "bankName": "پاسارگاد",
+    "iBan": "057",
+    "prefixes": ["502229"],
+    "logo": "pasrgad.png",
+    "bgColor": "#F8ECC9",
+    "textColor": "#231F20"
+  },
+  {
+    "id": "kar_afarin",
+    "bankName": "کارآفرین",
+    "iBan": "053",
+    "prefixes": ["627488"],
+    "logo": "kar_afarin.png",
+    "bgColor": "#CCF2CB",
+    "textColor": "#231F20"
+  },
+  {
+    "id": "saman",
+    "bankName": "سامان",
+    "iBan": "056",
+    "prefixes": ["621986"],
+    "logo": "saman.png",
+    "bgColor": "#B6EBFF",
+    "textColor": "#145580"
+  },
+  {
+    "id": "sina",
+    "bankName": "سینا",
+    "iBan": "059",
+    "prefixes": ["639346"],
+    "logo": "sina.png",
+    "bgColor": "#F9E9C4",
+    "textColor": "#282140"
+  },
+  {
+    "id": "sarmayeh",
+    "bankName": "سرمایه",
+    "iBan": "058",
+    "prefixes": ["639607"],
+    "logo": "sarmaye.png",
+    "bgColor": "#E1E1E1",
+    "textColor": "#363C73"
+  },
+  {
+    "id": "ayande",
+    "bankName": "آینده",
+    "iBan": "062",
+    "prefixes": ["636214"],
+    "logo": "ayande.png",
+    "bgColor": "#E9D5A9",
+    "textColor": "#3D1E10"
+  },
+  {
+    "id": "saderat",
+    "bankName": "صادرات ایران",
+    "iBan": "019",
+    "prefixes": ["603769"],
+    "logo": "saderat.png",
+    "bgColor": "#E9E3FF",
+    "textColor": "#29166F"
+  },
+  {
+    "id": "refah",
+    "bankName": "رفاه کارگران",
+    "iBan": "013",
+    "prefixes": ["589463"],
+    "logo": "refah.png",
+    "bgColor": "#DFE1FF",
+    "textColor": "#1D2186"
+  },
+  {
+    "id": "tejarat",
+    "bankName": "تجارت",
+    "iBan": "018",
+    "prefixes": ["627353", "585983"],
+    "logo": "tejarat.png",
+    "bgColor": "#CFEAFE",
+    "textColor": "#004A80"
+  },
+  {
+    "id": "iran_zamin",
+    "bankName": "ایران زمین",
+    "iBan": "069",
+    "prefixes": ["505785"],
+    "logo": "iranzamin.png",
+    "bgColor": "#DCCCEF",
+    "textColor": "#543A73"
+  },
+  {
+    "id": "dey",
+    "bankName": "دی",
+    "iBan": "066",
+    "prefixes": ["502938"],
+    "logo": "dey.png",
+    "bgColor": "#D0F7FD",
+    "textColor": "#006F80"
+  },
+  {
+    "id": "gardeshgari",
+    "bankName": "گردشگری",
+    "iBan": "064",
+    "prefixes": ["505416"],
+    "logo": "gardeshgari.png",
+    "bgColor": "#FFDCDD",
+    "textColor": "#B21C22"
+  },
+  {
+    "id": "nor",
+    "bankName": "نور",
+    "iBan": "080",
+    "prefixes": ["507677"],
+    "logo": "nor.png",
+    "bgColor": "#CDF2F2",
+    "textColor": "#062D53"
+  },
+  {
+    "id": "markazi",
+    "bankName": "مرکزي ج.ا.ا",
+    "iBan": "010",
+    "prefixes": ["10060", "636795"],
+    "logo": "markazi.png",
+    "bgColor": "#DBDCF2",
+    "textColor": "#090B41"
+  },
+  {
+    "id": "sanat_madan",
+    "bankName": "صنعت و معدن",
+    "iBan": "011",
+    "prefixes": ["627961"],
+    "logo": "sanat_madan.png",
+    "bgColor": "#DDDDDD",
+    "textColor": "#202D73"
+  },
+  {
+    "id": "keshavarzi",
+    "bankName": "کشاورزي",
+    "iBan": "016",
+    "prefixes": ["603770"],
+    "logo": "keshavarzi.png",
+    "bgColor": "#EFF1BF",
+    "textColor": "#202D14"
+  },
+  {
+    "id": "melli",
+    "bankName": "ملي ايران",
+    "iBan": "017",
+    "prefixes": ["603799"],
+    "logo": "melli.png",
+    "bgColor": "#EBE6B0",
+    "textColor": "#1A294D"
+  },
+  {
+    "id": "post_bank",
+    "bankName": "پست بانک",
+    "iBan": "021",
+    "prefixes": ["627760"],
+    "logo": "post_bank.png",
+    "bgColor": "#D7EBD7",
+    "textColor": "#803636"
+  },
+  {
+    "id": "parsian",
+    "bankName": "پارسيان",
+    "iBan": "054",
+    "prefixes": ["622106"],
+    "logo": "parsian.png",
+    "bgColor": "#F5E6CA",
+    "textColor": "#800F17"
+  },
+  {
+    "id": "eghtesad_novin",
+    "bankName": "اقتصاد نوين",
+    "iBan": "055",
+    "prefixes": ["627412"],
+    "logo": "eghtesad_novin.png",
+    "bgColor": "#F7D8FF",
+    "textColor": "#8D3499"
+  },
+  {
+    "id": "mehriran",
+    "bankName": "قرض الحسنه مهر ايران",
+    "iBan": "060",
+    "prefixes": ["606373"],
+    "logo": "mehriran.png",
+    "bgColor": "#D5FFD1",
+    "textColor": "#2C6628"
+  },
+  {
+    "id": "resalat",
+    "bankName": "قرض الحسنه رسالت",
+    "iBan": "070",
+    "prefixes": ["504172"],
+    "logo": "resalat.png",
+    "bgColor": "#CCF6FD",
+    "textColor": "#444D4F"
+  },
+  {
+    "id": "mellal",
+    "bankName": "موسسه مالي اعتباري ملل",
+    "iBan": "075",
+    "prefixes": ["606256"],
+    "logo": "mellal.png",
+    "bgColor": "#F5E4DF",
+    "textColor": "#131B52"
+  },
+  {
+    "id": "khavarmiyane",
+    "bankName": "خاورميانه",
+    "iBan": "078",
+    "prefixes": ["505809", "585947"],
+    "logo": "khavarmiyane.png",
+    "bgColor": "#FFEDD7",
+    "textColor": "#B26B15"
+  },
+  {
+    "id": "shaparak",
+    "bankName": "شبکه الکترونيکي پرداخت کارت-شاپرک",
+    "iBan": "",
+    "prefixes": ["581672"],
+    "logo": "shaparak.png",
+    "bgColor": "#D9F0FC",
+    "textColor": "#094564"
+  },
+  {
+    "id": "venezuela",
+    "bankName": "ايران ونزوئلا",
+    "iBan": "095",
+    "prefixes": ["581874"],
+    "logo": "venezuela.png",
+    "bgColor": "#FFE5B2",
+    "textColor": "#1B3171"
+  }
+]

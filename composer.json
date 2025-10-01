@@ -1,0 +1,38 @@
+{
+  "name": "sanf/iran-bank-detector",
+  "type": "library",
+  "version": "v1.0.0",
+  "description": "A lightweight PHP library to detect Iranian banks from card numbers.",
+  "keywords": [
+    "IranBankDetector",
+    "Iran-Bank-Detector",
+    "Bank",
+    "Iran",
+    "php"
+  ],
+  "homepage": "https://github.com/IranBankDetector",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "AmirAli",
+      "email": "sanfai.ir@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "iranBank\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.4 || ^8.0"
+  },
+  "archive": {
+    "exclude": [
+      "assets",
+      "tests",
+      "*.md"
+    ]
+  },
+  "minimum-stability": "stable",
+  "prefer-stable": true
+}
