@@ -17,7 +17,7 @@ class IranBankDetector {
     }
 
     private function attachLogoPath(array $bank): array {
-        $base = "https://cdn.jsdelivr.net/gh/4limirzaei/iran-bank-assets/logos/";
+        $base = "https://cdn.jsdelivr.net/gh/sanf-dev/iran-bank-detector/assets/";
         $bank["logoUrl"] = isset($bank["logo"]) ? $base . ltrim($bank["logo"], "/") : null;
         return $bank;
     }

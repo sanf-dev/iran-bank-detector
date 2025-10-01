@@ -54,4 +54,8 @@ Bank logos are served via a **CDN** to avoid the need for users to download or u
 
 To ensure optimal display quality, we recommend using logos with a **maximum size of 72x72 pixels**.
 
+## 📝 Issues and Suggestions
+
+If you encounter any issues or have suggestions, please create a new Issue on the GitHub repositor
+
 **power by [iran-bank-detector](https://github.com/4limirzaei/iran-bank-detector)**
